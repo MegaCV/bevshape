@@ -4,5 +4,5 @@ This method perfroms 3D object detection in bev view, it adopts shape-aware samp
 ## Results
 |   Model   | mAP  | NDS  | SET |
 | :-------: | :--: | :--: | :--: |
-| BEVShape(res50) | 0.4198 | 0.5381 | val |
+| BEVShape(res50) | 41.98 | 53.81 | val |
 | BEVShape(convnext-base)| 53.08 | 63.16 | test |
